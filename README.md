@@ -15,18 +15,30 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Guillem Ribes Espurz</h1>
 <h3 align="center">Graduate Robotics Engineer at Technical University of Delft, The Netherlands 🇳🇱</h3>
 
-### Experience
-* 
+### Experience/Education 
+* MSc in Robotics at Technical University of Delft
+  * Specialized in Path Planning, Machine Perception and Deep Learning
+* Multidisciplinary Project involved in programming a barn cleaning robot
+  * Implemented Full Coverage Path Planning
+  * Navigation Stack
+  * 2D SLAM 
+* BSc in Mechanical Engineering at Technical University of Eindhoven
+* Software Developer at Mercurians Delft
+  * Implementing local obstacle avoidance
+  * Skills/Behaviours in robots (e.g. passing or goalkeeping)
+
 
 ### Contnent Creator
 I also like to create content about robotics:
-**YouTube**: [ROS Explained](https://youtube.com/@rosexplained?si=XZ7Td6RD472UWPWn)
-**Blog Posts**: [Medium](https://medium.com/@gribes03)
+* **Website 🌐**: [Personal Website](https://gribes02.github.io/)
+* **YouTube 📹**: [ROS Explained](https://youtube.com/@rosexplained?si=XZ7Td6RD472UWPWn)
+* **Blog Posts 📄**: [Medium](https://medium.com/@gribes03)
 
 ### Interests and hobbies
 - Robotics/ROS2
 - Gym 🏋️
-- 
+- Tennis 🎾
+- Meeting new people 
 
 
 <h3 align="left">Connect with me:</h3>
