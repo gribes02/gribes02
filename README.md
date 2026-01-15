@@ -27,13 +27,13 @@ Here are some ideas to get you started:
   * Implementing local obstacle avoidance
   * Skills/Behaviours in robots (e.g. passing or goalkeeping)
 
-
+<!--
 ### Contnent Creator
 I also like to create content about robotics:
 * **Website 🌐**: [Personal Website](https://gribes02.github.io/)
 * **YouTube 📹**: [ROS Explained](https://youtube.com/@rosexplained?si=XZ7Td6RD472UWPWn)
 * **Blog Posts 📄**: [Medium](https://medium.com/@gribes03)
-
+-->
 ### Interests and hobbies
 - Robotics/ROS2
 - Gym 🏋️
